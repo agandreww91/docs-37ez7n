@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-akvjd2.10depositcasino.co.nz/sitemap.xml
